@@ -1,0 +1,15 @@
+﻿
+body {background-color:#eeeeee}
+td {font:10pt verdana; border-color:#3399FF}
+th {color:white; background-color:#3399FF; font:700 10pt verdana}
+a  {color:navy;font:700 10pt verdana}
+
+h2 {color:navy;font:700 16pt arial}
+h4 {color:maroon;font:700 11pt verdana}
+h1 {color:white;font:700 22pt arial;letter-spacing:5;background-color:navy}
+h3 {color:navy;font:700 14pt verdana}
+ness {color:red;font:7pt verdana}
+ness1 {color:red;font:8pt verdana}
+ness2 {color:red;font:10pt verdana}
+tr {border-color:#3399FF}
+custom_tag {background-color:#3399FF}
